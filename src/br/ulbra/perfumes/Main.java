@@ -6,8 +6,6 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        https://github.com/EleandersonRosadeMorais/Lista-de-Perfumes
-        ;
         // Imports
         Scanner ler = new Scanner(System.in);
         PerfumeList perfumeList = new PerfumeList();
